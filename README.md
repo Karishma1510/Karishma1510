@@ -2,17 +2,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-92-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-188-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 27.9 kB Used in GitHub's Storage 
  > 
-> 🏆 19 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 6 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
@@ -75,5 +73,5 @@ DIGITAL Command Language 1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karishma1510/Karishma1510/main/assets/bar_graph.png)
 
 
- Last Updated on 15/01/2024 09:56:37 UTC
+ Last Updated on 15/01/2024 18:38:32 UTC
 <!--END_SECTION:waka-->
