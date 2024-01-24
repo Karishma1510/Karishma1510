@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-187-blue)
 
@@ -43,16 +43,18 @@ Sunday                   7 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 26 mins       █████████████████████████   99.98 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Desktop                  1 hr 13 mins        █████████████░░░░░░░░░░░░   50.10 % 
+dotmystyleBackend        1 hr 13 mins        ████████████░░░░░░░░░░░░░   49.90 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -70,5 +72,5 @@ DIGITAL Command Language 1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karishma1510/Karishma1510/main/assets/bar_graph.png)
 
 
- Last Updated on 23/01/2024 18:39:51 UTC
+ Last Updated on 24/01/2024 18:38:55 UTC
 <!--END_SECTION:waka-->
