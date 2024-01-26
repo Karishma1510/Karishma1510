@@ -1,12 +1,12 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-187-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 27.9 kB Used in GitHub's Storage 
+> 📦 28.0 kB Used in GitHub's Storage 
  > 
 > 🏆 21 Contributions in the Year 2024
  > 
@@ -43,19 +43,20 @@ Sunday                   7 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   8 hrs 26 mins       █████████████████████████   99.99 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   13 hrs 18 mins      █████████████████████████   99.86 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 26 mins       █████████████████████████   100.00 % 
+VS Code                  13 hrs 19 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dotmystyleBackend        7 hrs 13 mins       █████████████████████░░░░   85.42 % 
-Desktop                  1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+dotmystyleBackend        12 hrs 5 mins       ███████████████████████░░   90.74 % 
+Desktop                  1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
 
 💻 Operating System: 
-Mac                      8 hrs 26 mins       █████████████████████████   100.00 % 
+Mac                      13 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -73,5 +74,5 @@ DIGITAL Command Language 1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karishma1510/Karishma1510/main/assets/bar_graph.png)
 
 
- Last Updated on 25/01/2024 18:40:11 UTC
+ Last Updated on 26/01/2024 18:37:45 UTC
 <!--END_SECTION:waka-->
